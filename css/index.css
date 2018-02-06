@@ -31,8 +31,8 @@ body {
 #tableInfo td, #tableInfo th {
     border: 1px solid #ddd;
     padding: 8px;
-    width: 33%;
-   
+    width: 50%;
+
 }
 
 #tableInfo tr:nth-child(even){background-color: #f2f2f2;}
